@@ -1,4 +1,8 @@
 # 🚁 TRINETRA: AI-Powered Multi-Mode Disaster Rescue and Human Detection System
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## Problem Statement
 
@@ -270,3 +274,4 @@ This project was developed for:
 ## Project Tagline
 
 TRINETRA – The Third Eye That Never Misses a Survivor
+
